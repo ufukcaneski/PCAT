@@ -1,0 +1,25 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ufukcaneski/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Ufukcan Eski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ufukcaneski/PCAT/issues"
+  },
+  "homepage": "https://github.com/ufukcaneski/PCAT#readme"
+}
